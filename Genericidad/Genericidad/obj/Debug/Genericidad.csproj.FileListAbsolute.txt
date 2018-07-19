@@ -1,0 +1,6 @@
+C:\Users\clarita\Documents\SharpDevelop Projects\Genericidad\Genericidad\obj\Debug\Genericidad.csprojResolveAssemblyReference.cache
+C:\Users\clarita\Documents\SharpDevelop Projects\Genericidad\Genericidad\bin\Debug\Genericidad.exe.config
+C:\Users\clarita\Documents\SharpDevelop Projects\Genericidad\Genericidad\bin\Debug\Genericidad.exe
+C:\Users\clarita\Documents\SharpDevelop Projects\Genericidad\Genericidad\bin\Debug\Genericidad.pdb
+C:\Users\clarita\Documents\SharpDevelop Projects\Genericidad\Genericidad\obj\Debug\Genericidad.exe
+C:\Users\clarita\Documents\SharpDevelop Projects\Genericidad\Genericidad\obj\Debug\Genericidad.pdb
